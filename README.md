@@ -2,8 +2,8 @@
 A Interactive Web App that predict three possible next words to complete that sentences.
 
 # Demo Pictures 
-![Demo for input ](images/demo.png)
-![Demo for output](images/demo.png)
+![Demo for input ](demo-1.png)
+![Demo for output](demo-2.png)
 
 
 # Yt Video Link 

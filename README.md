@@ -37,6 +37,7 @@ The goal of this project to create a web app to predict the next three words usi
 - keras 
 ---
 ## 🔹Project Structure
+```
 NextWordPredictor/
 ├── UserInternface.py                 # Main Streamlit application
 ├── 1660-0.txt                       # raw text data
@@ -47,6 +48,7 @@ NextWordPredictor/
 ├── tokenizer.pkl         # this is tokenizer to convert into text - embedding 
 │
 └── .gitignore      # do not consider the virtual environments
+```
 ---
 ## 🔹How to Start 
 
@@ -63,11 +65,11 @@ git clone https://github.com/Sachin2095/NextWordPredictor.git
 ```bash
 pip install -r requirements.txt
 ```
-4. Run the notebook  'nextWordPredictionUsingLstm.ipynb'
+4. Run the notebook  `nextWordPredictionUsingLstm.ipynb`
    
-5. Open the App Using 'UserInternface.py'
+5. Open the App Using `UserInternface.py`
 
-6. Open Browser and go to Locl Host
+6. Open Browser and go to Local Host
    ```bash
    http://localhost:5000
    ```
